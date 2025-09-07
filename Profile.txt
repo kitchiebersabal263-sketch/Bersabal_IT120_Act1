@@ -1,7 +1,6 @@
-First Name: Kitchie
-Middle Name: Awitan
-Last Name: Bersabal
-Gender: Female
-Age: 20
-Birthday: July 2, 2005
-Contacts: 09993943783
+Birth Place: Cabadbaran City
+Religion: Jehovah's Witness
+Father's Name: Sandy Bersabal
+Father's Occupation: Farmer
+Mother's Name: Ardie Bersabal
+Mother's Occupation: Vendor
