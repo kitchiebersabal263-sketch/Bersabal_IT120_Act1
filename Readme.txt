@@ -55,19 +55,3 @@ git push origin BERSABAL_B1
 git push origin BERSABAL_B2
 git push origin BERSABAL_B3
 git push origin BERSABAL_B4
-git checkout BERSABAL_B1
-git checkout BERSABAL_B4 -- Readme.txt
-git add Readme.txt
-git commit -m "Update Readme.txt from B4"
-git checkout BERSABAL_B2
-git checkout BERSABAL_B4 -- Readme.txt
-git add Readme.txt
-git commit -m "Update Readme.txt from B4"
-git checkout BERSABAL_B3
-git checkout BERSABAL_B4 -- Readme.txt
-git add Readme.txt
-git commit -m "Update Readme.txt from B4"
-git checkout main
-git checkout BERSABAL_B4 -- Readme.txt
-git add Readme.txt
-git commit -m "Update Readme.txt from B4"
